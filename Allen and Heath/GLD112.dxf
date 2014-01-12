@@ -105,7 +105,7 @@ ByLayer
   9
 $CECOLOR
  62
-   256
+   178
   9
 $CELTSCALE
  40
@@ -265,15 +265,15 @@ Standard
   9
 $DIMCLRD
  70
-     0
+   178
   9
 $DIMCLRE
  70
-     0
+   178
   9
 $DIMCLRT
  70
-     0
+   178
   9
 $DIMTFAC
  40
@@ -489,19 +489,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2456668.650046285
+2456669.821319433
   9
 $TDUCREATE
  40
-2456668.858379629
+2456670.029652778
   9
 $TDUPDATE
  40
-2456668.650046285
+2456669.821319433
   9
 $TDUUPDATE
  40
-2456668.858379629
+2456670.029652778
   9
 $TDINDWG
  40
@@ -929,7 +929,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{B4ECB563-1FEB-72E0-FA7D-8561FE92A7C6}
+{8AE99B95-AB9F-5B08-37CC-6CAA1FB070A3}
   9
 $VERSIONGUID
   2
@@ -2277,13 +2277,13 @@ textstyle0
  42
 0.2
   3
-Standard
+
   4
 
 1001
 ACAD
 1000
-Standard
+Ubuntu Condensed
 1071
         0
   0
@@ -3107,7 +3107,7 @@ ENTITIES
   0
 MTEXT
   5
-17
+1B
 330
 51
 100
@@ -3123,7 +3123,7 @@ AcDbMText
  30
 0.0
  40
-5.0
+1.0
  41
 0.0
  46
@@ -3133,7 +3133,7 @@ AcDbMText
  72
      1
   1
-\fUbuntu Condensed|b0|i0|c0|p0;\H1.07143;Allen and Heath GLD112
+\H1.5;Allen and Heath GLD112
   7
 textstyle0
  73
@@ -3143,7 +3143,7 @@ textstyle0
   0
 LINE
   5
-18
+1C
 330
 51
 100
@@ -3167,7 +3167,7 @@ AcDbLine
   0
 LINE
   5
-19
+1D
 330
 51
 100
@@ -3191,7 +3191,7 @@ AcDbLine
   0
 LINE
   5
-1B
+1E
 330
 51
 100
@@ -3215,7 +3215,7 @@ AcDbLine
   0
 ARC
   5
-1C
+1F
 330
 51
 100
@@ -3241,7 +3241,7 @@ AcDbArc
   0
 ARC
   5
-1D
+20
 330
 51
 100
@@ -3267,7 +3267,7 @@ AcDbArc
   0
 MTEXT
   5
-1E
+21
 330
 51
 100
@@ -3303,7 +3303,7 @@ textstyle1
   0
 LINE
   5
-1F
+22
 330
 51
 100
